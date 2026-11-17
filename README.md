@@ -38,7 +38,7 @@ An interactive Power BI dashboard designed to analyze AdventureWorks business pe
  📷 Dashboard Preview
 
  1. Overview Dashboard
-![Overview Dashboard](Overview.png)
+![Overview Dashboard](OverView.png)
 
  2. Customer Analysis
 ![Customer Analysis](CustomerView.png)
